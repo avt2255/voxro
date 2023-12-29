@@ -5,7 +5,7 @@ export default function ActiveButton({ text }) {
   return (
     <Button
       variant="contained"
-      className="w-60"
+      className="w-60 "
       style={{ backgroundColor: "white", color: "black" }}
     >
       {text}

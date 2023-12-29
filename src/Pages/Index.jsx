@@ -75,7 +75,7 @@ const Index = () => {
       </div>
 
       <div className="mt-20 px-80 pr-80">
-        <div className="flex text-2xl">
+        <div className="flex text-2xl gap-4">
           {/* Column 1 */}
           <div className="flex-1 flex-col  justify-center text-center ">
             <p>5M</p>
